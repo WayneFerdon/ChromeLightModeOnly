@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         amae-koromoLightModeOnly
+// @name         ChromeLightModeOnly
 // @namespace    http://tampermonkey.net/
-// @version      2023-12-05
-// @description  Use light mode only in amae-koromo(https://ikeda.sapk.ch/) to ensure Chrome AutoDarkMode(chrome://flags/#enable-force-dark) won't change font color (which might cause text unreadable).
+// @version      2024-01-17
+// @description  Use light mode only to ensure Chrome AutoDarkMode(chrome://flags/#enable-force-dark) won't change font color (which might cause text unreadable).
 // @author       WayneFerdon
 // @match        https://ikeda.sapk.ch/*
 // @grant        none
